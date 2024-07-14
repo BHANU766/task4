@@ -9,3 +9,6 @@ public class Que7 {
 	}
 
 }
+
+
+//output:string lenght is:9
